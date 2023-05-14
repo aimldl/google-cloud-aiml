@@ -18,10 +18,7 @@ For details, refer to Google Cloud > Blog > [Introducing a new homepage for Goog
 ## Table of Contents
 
 [Getting Started with Google Cloud](getting-started/README.md)
-
-[Getting Started with Google Cloud for free](getting-started/for-free.md), a step-by-step guide
-
-- todo: merge this to the above page [How to Get Started GCP for Free](how_to/1-get_started_gcp_for_free.md)
+* [for free](getting-started/for-free.md), a step-by-step guide
 
 ## [Installation](INSTALL.md) 
 

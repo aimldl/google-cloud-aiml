@@ -3,7 +3,7 @@
 
 # Getting Started Google Cloud for Free
 
-[todo] merge this to the above page [How to Get Started GCP for Free](how_to/1-get_started_gcp_for_free.md)
+[todo] merge https://github.com/aimldl/environments/edit/master/google_cloud/en/how_to/1-get_started_gcp_for_free.md
 
 Step 1. Sign in with your Google account.
 

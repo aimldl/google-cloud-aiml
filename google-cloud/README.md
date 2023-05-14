@@ -13,7 +13,7 @@ Google Cloud Platform is now called Google Cloud. In addition, the mobile app na
 (previously called Cloud Console app) is renamed to Google Cloud app, and you'll 
 see this update reflected across most of our website and documentation.
 ```
-For details, refer to Google Cloud > Blog > [Introducing a new homepage for Google Cloud](https://cloud.google.com/blog/topics/developers-practitioners/introducing-new-homepage-google-cloud), Jun. 22, 2022.
+source: Google Cloud > Blog > [Introducing a new homepage for Google Cloud](https://cloud.google.com/blog/topics/developers-practitioners/introducing-new-homepage-google-cloud), Jun. 22, 2022.
 
 ## Links
 * Homepage: https://cloud.google.com/

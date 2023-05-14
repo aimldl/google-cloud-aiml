@@ -20,12 +20,11 @@ For details, refer to Google Cloud > Blog > [Introducing a new homepage for Goog
 [Getting Started with Google Cloud](getting-started/README.md)
 * [for free](getting-started/for-free.md), a step-by-step guide
 
-## Links to Tutorials
+## Links
 * Google Cloud > [Google Cloud documentation](https://cloud.google.com/docs)
 * Google Cloud > [AI Hub](https://aihub.cloud.google.com/)
 * Udemy > [Google Cloud Machine Learning with TensorFlow](https://www.udemy.com/course/google-cloud-machine-learning-with-tensorflow/)
  
-```
 A part of message after [You are now authenticated with the gcloud CLI!](https://cloud.google.com/sdk/auth_success)
 
 Here are some links to help you get started with Google Cloud Platform services.
@@ -41,4 +40,3 @@ Here are some links to help you get started with Google Cloud Platform services.
   To get started, see [Managing Instances Using the Cloud SDK](https://cloud.google.com/cloud-sql/docs/cloud-sdk).
 - **Make your applications and services available to your users with Google Cloud DNS.**
   To get started, see [Getting started with Google Cloud DNS](https://cloud.google.com/cloud-dns/getting-started).
-```

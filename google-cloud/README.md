@@ -3,7 +3,7 @@
 * Draft: 2021-05-17 (Mon)
 
 # Google Cloud
-Google Cloud is a Cloud Service Provider (CSP) that provides a suite of cloud computing services.
+Google Cloud is a Cloud Service Provider (CSP) that provides a suite of cloud computing services by Google.
 
 ## Google Cloud vs. Google Cloud Platform (GCP)
 Previously, Google Cloud was called Google Cloud Platform or GCP.

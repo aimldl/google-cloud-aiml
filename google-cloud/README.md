@@ -6,9 +6,12 @@
 ## Google Cloud vs. Google Cloud Platform (GCP)
 * Previously, Google Cloud was called Google Cloud Platform or GCP.
 ```
-To further simplify your experience and ensure consistency across our products, Google Cloud Platform is now called Google Cloud. In addition, the mobile app name (previously called Cloud Console app) is renamed to Google Cloud app, and you'll see this update reflected across most of our website and documentation.
+To further simplify your experience and ensure consistency across our products, 
+Google Cloud Platform is now called Google Cloud. In addition, the mobile app name 
+(previously called Cloud Console app) is renamed to Google Cloud app, and you'll 
+see this update reflected across most of our website and documentation.
 ```
-source: [Introducing a new homepage for Google Cloud](https://cloud.google.com/blog/topics/developers-practitioners/introducing-new-homepage-google-cloud)
+source: Google Cloud > Blog > [Introducing a new homepage for Google Cloud](https://cloud.google.com/blog/topics/developers-practitioners/introducing-new-homepage-google-cloud), Jun. 22, 2022.
 
 ## [Getting Started with Google Cloud](GETTING_STARTED.md)  
   * Google Cloud Homepage

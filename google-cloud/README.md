@@ -2,8 +2,7 @@
 * Rev.1: 2022-07-11 (Mon)
 * Draft: 2021-05-17 (Mon)
 
-# Google Cloud
-Homepage: https://cloud.google.com/
+# Google Cloud https://cloud.google.com/
 
 ## Google Cloud vs. Google Cloud Platform (GCP)
 Previously, Google Cloud was called Google Cloud Platform or GCP.

@@ -3,7 +3,7 @@
 * Draft: 2021-05-17 (Mon)
 
 # Google Cloud
-Homepage: https://cloud.google.com/
+Google Cloud is a Cloud Service Provider (CSP) that provides a suite of cloud computing services.
 
 ## Google Cloud vs. Google Cloud Platform (GCP)
 Previously, Google Cloud was called Google Cloud Platform or GCP.
@@ -15,12 +15,8 @@ see this update reflected across most of our website and documentation.
 ```
 For details, refer to Google Cloud > Blog > [Introducing a new homepage for Google Cloud](https://cloud.google.com/blog/topics/developers-practitioners/introducing-new-homepage-google-cloud), Jun. 22, 2022.
 
-## Table of Contents
-
-[Getting Started with Google Cloud](getting-started/README.md)
-* [for free](getting-started/for-free.md), a step-by-step guide
-
 ## Links
+* Homepage: https://cloud.google.com/
 * Google Cloud > [Google Cloud documentation](https://cloud.google.com/docs)
 * Google Cloud > [AI Hub](https://aihub.cloud.google.com/)
 * Udemy > [Google Cloud Machine Learning with TensorFlow](https://www.udemy.com/course/google-cloud-machine-learning-with-tensorflow/)
